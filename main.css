@@ -57,7 +57,7 @@ ul li {
     max-width: 25%;
     list-style: none;
     position: relative;
-    max-height: 240px;
+    max-height: 200px;
     overflow-y: hidden;
 }
 
